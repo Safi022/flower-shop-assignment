@@ -49,7 +49,7 @@ font-weight: 400;
     gap: 25px;
     margin: 0px 240px 32px 0px;
     padding-left: 210px;
-    padding-right: 0px;
+    padding-right: 210px;
 }
 .flower-image{
     /* border-radius: 300px 300px 0px 0px; */
@@ -100,7 +100,8 @@ padding: 100px 30px 100px 186px;
 .im{
     display: flex;
     gap: 24px;
-    padding-left: 200px;
+    padding-left: 210px;
+    padding-right: 210px;
 }
 .foot-title{
     color: #E55473;
@@ -153,9 +154,11 @@ margin:48px 25px 24px 16pxpx;
     width: 1440px;
     height: 449px;
     margin-top: 130px;
-    background-color: antiquewhite;
     width: 100%;
     padding-top: 100px;
+    background-image: url("Rectangle\ 9.png");
+    background-repeat: no-repeat;
+    background-position: center;
 }
 .flower-image-f{
     border-radius: 300px 300px 0px 0px;
@@ -171,4 +174,11 @@ padding: 117px 47px 51px 47px;
     border-radius: 300px 300px 0px 0px;
 background: rgba(71, 125, 17, 0.15);
 padding: 67px 75px 0px 75px;
+}
+.flower-name{
+    color: #272727;
+text-align: center;
+font-size: 24px;
+font-weight: 700;
+text-decoration-line: underline;
 }
