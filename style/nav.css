@@ -55,10 +55,40 @@ background: rgba(167, 33, 98, 0.15);
 }
 .b{
     display: flex;
+background: rgba(229, 84, 115, 0.05);
+width: 1800px;
+height: 550px;
 }
 .hd{
     color: #272727;
 font-size: 40px;
 font-weight: 800;
+padding: 120px 25px 24px 400px;
 }
-
+.of{
+    color: #E55473;
+font-size: 40px;
+font-weight: 800;
+}
+.hd-des{
+    width: 594px;
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
+}
+.btn-sec{
+    background: #E55473;
+    display: inline-flex;
+padding: 15px 30px;
+align-items: flex-start;
+gap: 10px;
+color: #FFF;
+}
+.hd-pic{
+    width: 318px;
+height: 420px;
+flex-shrink: 0;
+padding: 100px 30px 100px 186px;
+}
