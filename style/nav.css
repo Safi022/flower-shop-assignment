@@ -47,14 +47,10 @@ font-weight: 400;
 .fl{
     display: flex;
     gap: 25px;
-    margin: 0px 240px 32px 0px;
-    padding-left: 210px;
-    padding-right: 210px;
+    margin-bottom: 44px;
+    padding: 10px 240px 10px 214px; 
 }
-.flower-image{
-    /* border-radius: 300px 300px 0px 0px; */
-/* background: rgba(167, 33, 98, 0.15); */
-}
+
 .b{
     display: flex;
 background: rgba(229, 84, 115, 0.05);
@@ -100,8 +96,7 @@ padding: 100px 30px 100px 186px;
 .im{
     display: flex;
     gap: 24px;
-    padding-left: 210px;
-    padding-right: 210px;
+    padding: 10px 210px 10px 210px;
 }
 .foot-title{
     color: #E55473;
