@@ -182,3 +182,21 @@ font-size: 24px;
 font-weight: 700;
 text-decoration-line: underline;
 }
+.del-title{
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    text-align: left;
+    padding-left: 100px;
+   
+}
+.del{
+    background-color: rgba(5, 151, 160, 0.15);
+    display: flex;
+    gap: 700px;
+    margin-top: 150px;
+}
+.del-imag{
+    width: 300px;
+    padding-right: 100px;
+}
