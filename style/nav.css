@@ -56,8 +56,9 @@ background: rgba(167, 33, 98, 0.15);
 .b{
     display: flex;
 background: rgba(229, 84, 115, 0.05);
-width: 1800px;
+width: 100%;
 height: 550px;
+margin-right: 0px;
 }
 .hd{
     color: #272727;
@@ -127,4 +128,13 @@ text-align: center;
 font-family: Lato;
 font-size: 16px;
 font-weight: 400;
+}
+.btn-thi{
+    background: #E55473;
+    display: inline-flex;
+padding: 15px 30px;
+align-items: flex-start;
+gap: 10px;
+color: #FFF;
+margin:0px 25px 24px 550px;
 }
