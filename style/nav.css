@@ -1,0 +1,64 @@
+.h{
+    display: flex;
+    background-color: rgba(229, 84, 115, 0.10);
+    margin-bottom: 130px;
+}
+.pp{
+    width: 300px;
+margin-right: 240px;
+}
+.head-title{
+    color: #272727;
+font-size: 80px;
+font-weight: 800;
+margin-left: 190px;
+margin-right: 97px;
+margin-bottom: 35px;
+}
+.head-description{
+    color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+margin-left: 190px;
+margin-top: 0px;
+margin-bottom: 32px;
+}
+.btn-pri{
+    color: #FFF;
+font-size: 20px;
+font-weight: 700;
+border-radius: 0px;
+background: #E55473;
+padding: 20px 35px;
+margin-left: 190px;
+}
+.body-titles{
+    color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+}
+.body-des{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+}
+.fl{
+    display: flex;
+    gap: 25px;
+    margin: 48px 240px 32px 240px;
+}
+.flower-image{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+}
+.b{
+    display: flex;
+}
+.hd{
+    color: #272727;
+font-size: 40px;
+font-weight: 800;
+}
+
