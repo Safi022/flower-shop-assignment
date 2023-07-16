@@ -98,7 +98,7 @@ padding: 100px 30px 100px 186px;
 .im{
     display: flex;
     gap: 24px;
-    padding-left: 170px;
+    padding-left: 200px;
 }
 .foot-title{
     color: #E55473;
@@ -136,5 +136,22 @@ padding: 15px 30px;
 align-items: flex-start;
 gap: 10px;
 color: #FFF;
-margin:0px 25px 24px 550px;
+margin:48px 25px 24px 16pxpx;
+}
+.frm{
+    width: 700px;
+    height: 43px;
+    flex-shrink: 0;
+    margin-left:550px ;
+    margin-top: 30px;
+
+}
+.ff{
+    margin-bottom: 100px;
+    width: 1440px;
+    height: 449px;
+    margin-top: 130px;
+    background-color: antiquewhite;
+    width: 100%;
+    padding-top: 100px;
 }
